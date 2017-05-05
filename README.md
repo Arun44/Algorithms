@@ -1,5 +1,7 @@
 # Algorithms
 
+  This repository contains algorithmic solutions that I have implemented in Various Programming websites for Kicks and Learing. Happy Coding :)
+
 ### Contents:
 
 * [HackerRank](https://github.com/Arun44/Algorithms/tree/master/src/Hackerrank)
