@@ -1,6 +1,6 @@
 # Algorithms
 
-  This repository contains algorithmic solutions that I have implemented in Various Programming websites for Kicks and Learing. Happy Coding :)
+  This repository contains algorithmic solutions that I have implemented for coding challenges in  Various Programming websites for Kicks and Learning. Happy Coding :)
 
 ### Contents:
 
