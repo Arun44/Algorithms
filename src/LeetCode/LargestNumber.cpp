@@ -1,6 +1,6 @@
 int comp(string x,string y)
 {
-      string xy = x.append(y);tring yx = y.append(x);
+      string xy = x.append(y);string yx = y.append(x);
       return xy.compare(yx) > 0 ? 1: 0;
 }
 class Solution 
