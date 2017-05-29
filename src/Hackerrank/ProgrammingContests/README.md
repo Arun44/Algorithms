@@ -5,3 +5,6 @@
  
 ### ROOKIERANK:
 
+* ### [RookieRank](https://github.com/Arun44/Algorithms/tree/master/src/Hackerrank/ProgrammingContests/src/Rookierank)
+
+Contestants will be given 48 hours to Solve 5 algorithmic Challenges. 
