@@ -7,6 +7,6 @@
 * [HackerRank](https://github.com/Arun44/Algorithms/tree/master/src/Hackerrank)
    * [Programming Contests](https://github.com/Arun44/Algorithms/tree/master/src/Hackerrank/ProgrammingContests)
    * [General](https://github.com/Arun44/Algorithms/tree/master/src/Hackerrank/General) 
-* [HackerEarth](https://github.com/Arun44/Algorithms/tree/master/src/Hackerearth)
+* [HackerEarth](https://github.com/Arun44/Algorithms/tree/master/src/HackerEarth)
 * [SpoJ](https://github.com/Arun44/Algorithms/tree/master/src/SpoJ)
 * [LeetCode](https://github.com/Arun44/Algorithms/tree/master/src/LeetCode)
